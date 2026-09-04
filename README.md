@@ -1,4 +1,4 @@
-# EP1: Detección de Enfermedades en Hojas de Tomate
+# Detección de Enfermedades en Hojas de Tomate
 
 Este es el repositorio para la Evaluación Parcial N°1. El proyecto consiste en armar una red neuronal (Perceptrón Multicapa o MLP) para clasificar imágenes y detectar si una planta está enferma o no a partir del dataset PlantVillage.
 
